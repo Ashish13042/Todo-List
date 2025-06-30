@@ -31,7 +31,7 @@ A simple and intuitive **To-Do List application** built with **React**. This pro
 > ![Dark Mode]
 ![Screenshot 2025-06-04 163349](https://github.com/user-attachments/assets/8599724b-cc31-4ff6-b505-d3b9a6d89255)
 
----
+
 
 
 
